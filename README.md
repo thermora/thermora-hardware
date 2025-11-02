@@ -4,6 +4,8 @@ ESP32 firmware for Thermora, an IoT system that measures temperature, humidity, 
 
 ## Hardware
 
+![Hardware Setup](Hardware.png)
+
 - ESP32 DevKit V1 (~R$ 35,00)
 - BME280 Sensor (~R$ 15,00)
 - NEO-6M GPS Module (~R$ 25,00)
